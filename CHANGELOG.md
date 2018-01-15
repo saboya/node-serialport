@@ -1,3 +1,18 @@
+<a name="6.0.5"></a>
+## 6.0.5 (2018-01-15)
+
+* chore(build): build on node 9 ([a819bca](https://github.com/node-serialport/node-serialport/commit/a819bca))
+* chore(docs): fix appveyor links in readme ([388d37b](https://github.com/node-serialport/node-serialport/commit/388d37b))
+* chore(package): update commander to version 2.13.0 ([a94fea0](https://github.com/node-serialport/node-serialport/commit/a94fea0))
+* chore(package): update prebuild to version 7.0.0 ([bc46149](https://github.com/node-serialport/node-serialport/commit/bc46149))
+* chore(package): update prebuild-install to version 2.4.1 ([13e8d0a](https://github.com/node-serialport/node-serialport/commit/13e8d0a))
+* chore(package): update sinon to version 4.1.5 ([699a907](https://github.com/node-serialport/node-serialport/commit/699a907))
+* fix(osx): Add null check code ([602793d](https://github.com/node-serialport/node-serialport/commit/602793d))
+* feat(docs): Switch to JSDOC docs not in the readme (#1383) ([60fc047](https://github.com/node-serialport/node-serialport/commit/60fc047))
+* feat(parsers): ByteLength is now more efficient (#1402) ([f7eb2f0](https://github.com/node-serialport/node-serialport/commit/f7eb2f0))
+* docs(readyParser): correct the required parameters (#1392) ([dcd256d](https://github.com/node-serialport/node-serialport/commit/dcd256d))
+* fix(docs): Put gitter link back ([f8f3ce5](https://github.com/node-serialport/node-serialport/commit/f8f3ce5))
+
 <a name="6.0.4"></a>
 ## [6.0.4](https://github.com/node-serialport/node-serialport/compare/v6.0.3...v6.0.4) (2017-10-26)
 
